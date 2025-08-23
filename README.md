@@ -27,6 +27,6 @@ _It rhymes with PBI as it is has focssed on Power BI which doesn't have an inbui
 
 ## Installation
 
-Just check the [releases](https://github.com/MrRaghav/PB-eye/releases) and download: **[Download PB-eye.exe](https://github.com/MrRaghav/PB-eye/releases)
+Just check the [releases](https://github.com/MrRaghav/PB-eye/releases) and download: **[Download PB-eye.exe](https://github.com/MrRaghav/PB-eye/releases)**
 
 <img src="assets/PB-eye-no-bg.png" alt="PB-eye Logo" width="250" height="250">
