@@ -1,4 +1,6 @@
-# PB-eye
+# PB-eye - The Eyedropper
+
+_It rhymes with PBI as it is has focssed on Power BI which doesn't have an inbuilt eyedropper as of 2025!_
 
 **PB-eye** is a lightweight, smart color **eyedropper** designed for Power BI users and designers. Hover over any color, copy its hex code instantly with **Shift + C**, and paste it anywhere using **Ctrl + V**. PB-eye sits neatly at the bottom-right corner of your screen, giving you fast, frictionless color picking without interfering with your workflow.
 
@@ -19,13 +21,12 @@
 
 1. Move your cursor to any color you want to capture.  
 2. Press **Shift + C** → Color hex is copied to clipboard.  
-3. Paste it anywhere with **Ctrl + V**.  
-4. Watch the small popup confirm the copy action.  
+3. Paste it anywhere with **Ctrl + V**.
 
 ---
 
 ## Installation
 
-Just check the [releases](https://github.com/YourUsername/PB-eye/releases) and download the executable.
+Just check the [releases](https://github.com/MrRaghav/PB-eye/releases) and download: **[Download PB-eye.exe](https://github.com/MrRaghav/PB-eye/releases)
 
 <img src="assets/PB-eye-no-bg.png" alt="PB-eye Logo" width="250" height="250">
