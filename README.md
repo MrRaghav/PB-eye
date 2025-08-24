@@ -1,6 +1,6 @@
 # PB-eye - The Eyedropper
 
-_It rhymes with PBI as it is has focssed on Power BI which doesn't have an inbuilt eyedropper as of 2025!_
+_It rhymes with PBI as it is focussed on Power BI which doesn't have an inbuilt eyedropper as of 2025!_
 
 **PB-eye** is a lightweight, smart color **eyedropper** designed for Power BI users and designers. Hover over any color, copy its hex code instantly with **Shift + C**, and paste it anywhere using **Ctrl + V**. PB-eye sits neatly at the bottom-right corner of your screen, giving you fast, frictionless color picking without interfering with your workflow.
 
